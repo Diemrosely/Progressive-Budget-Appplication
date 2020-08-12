@@ -34,5 +34,6 @@ To run the code locally, npm install required packages.  The port is currently s
 
 ## Collaboration 
 Kenneth Wardlow 
-https://mongoosejs.com/docs/guide.html
-https://kb.objectrocket.com/mongo-db/how-to-install-mongoose-with-npm-1005
+https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB
+https://developers.google.com/web/fundamentals/primers/service-workers
+Trilogy Full Stack Coding Bootcamp Activities and Resources
