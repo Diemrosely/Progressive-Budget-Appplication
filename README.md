@@ -19,3 +19,20 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
 Business Context
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
+## Live Link
+
+https://rocky-harbor-84579.herokuapp.com/
+
+![Gif](assets/budget.gif)
+
+## Installation
+
+To run the code locally, npm install required packages.  The port is currently set to 3000 so once node server.js is successful, the console will communicate that the server listening on that port.  
+
+```npm install```
+```node server.js```
+
+## Collaboration 
+Kenneth Wardlow 
+https://mongoosejs.com/docs/guide.html
+https://kb.objectrocket.com/mongo-db/how-to-install-mongoose-with-npm-1005
