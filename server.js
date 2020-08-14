@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 //compression is used for middleware and compresses response bodies
 const compression = require("compression");
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3002;
 
 const app = express();
 
